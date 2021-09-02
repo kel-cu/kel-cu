@@ -1,7 +1,7 @@
 # Обо мне
 - Я разработчик на NodeJS, спойлер фиговый, но что-то получается
 ## Соц. сети
-- [Twitter](https://twitter.com/KelSimply2021)
+- [Twitter](https://twitter.com/Not_Simply_Kel 'Кликни)')
 - [YouTube](https://www.youtube.com/channel/UCZRHmdboFKJnueAdCub4Hkg)
 - [TikTok](https://www.tiktok.com/@not_simply_kel?)
 
