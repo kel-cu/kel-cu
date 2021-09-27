@@ -1,5 +1,5 @@
 # Обо мне
-- Я разработчик на NodeJS, спойлер фиговый, но что-то получается
+- Я разработчик на NodeJS, спойлер фиговый, но что-то получается<br>Публичные проекты: [reworlds.js](https://github.com/reworldsjs) [flying-discord](https://github.com/not-simply-kel/flying-discord-public) SimplyBot
 ## Соц. сети
 - [Twitter](https://twitter.com/Not_Simply_Kel 'Кликни)')
 - [YouTube](https://www.youtube.com/channel/UCZRHmdboFKJnueAdCub4Hkg)
