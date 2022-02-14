@@ -5,7 +5,7 @@
 ### Соц. сети<br>
 > **Twitter:** [Simply_Kel_](https://twitter.com/Simply_Kel_ 'Кликни)')<br>
 > **YouTube:** [Simple Кел](https://www.youtube.com/channel/UCZRHmdboFKJnueAdCub4Hkg 'Кликни)')<br>
-> **TikTok:** [@.simply_kel](https://www.tiktok.com/@.simply_kel? 'Кликни)')
+> **TikTok:** [@.simply_kel](https://www.tiktok.com/@.simply_kel? 'Кликни)')<br>
 > **Discord:** [Кел#5299](https://discord.com/users/849654148706205758 'Мой дискорд xd')
 
 > Для некоторых юридических и прочим людям
