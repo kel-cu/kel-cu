@@ -3,7 +3,7 @@
 > Делаю свои проекты, на Java, Node.js и python? <br>
 > Ну ещё делаю видосики и т.д. 
 
-### Соц. сети
+### Соц. сети / Веб-ресурсы
 - [YouTube](https://www.youtube.com/channel/UCZRHmdboFKJnueAdCub4Hkg)
 - [Modrinth](https://modrinth.com/user/Simply_Kel)
 - [Curseforge](https://www.curseforge.com/members/simply_kel/projects)
