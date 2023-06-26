@@ -5,9 +5,8 @@
   
 Соц. сеть | Тип | Ссылка
 --- | --- | ---
-Modrinth | Mod ресурсы | https://modrinth.com/user/simply_kel
-Cusrseforge | Mod ресурсы | https://curseforge.com/members/simply_kel
-Telegram | ТГ Канал | https://t.me/kels_dump
+Modrinth | Mod ресурсы | https://simplykel.ru/r/mr
+Telegram | ТГ Канал | https://simplykel.ru/r/tgc
   
 </div>
 <p align="center">
