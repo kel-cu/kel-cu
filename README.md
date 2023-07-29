@@ -6,7 +6,7 @@
 #### Основные языки
 * Русский
 * Java
-* JavaScript
+* '1' + 1 = 11
   * Node.JS
 
 <p align="center">
