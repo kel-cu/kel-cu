@@ -3,11 +3,11 @@
 Человек который занимается модами для Minecraft: Java Edition на Fabric.<br>
 Творчеством в виде артов, ток пока-что между моим персонажом Алины.
 
-#### Основные языки
-* Русский
-* Java
-* '1' + 1 = 11
-  * Node.JS
+#### Основные ЯП
+![java](https://kelcuprum.ru/ass/budge/profile/java.svg)
+![js](https://kelcuprum.ru/ass/budge/profile/js.svg)
+
+Я говорю в основном по-русски
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=simply-kel&theme=java-dark&border_radius=18&locale=ru" alt="GitHub Streak" /></a>
 
