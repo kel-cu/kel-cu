@@ -4,8 +4,8 @@
 Творчеством в виде артов, ток пока-что между моим персонажом Алины.
 
 #### Основные ЯП
-![java](https://kelcuprum.ru/ass/budge/profile/java.svg)
-![js](https://kelcuprum.ru/ass/budge/profile/js.svg)
+[![java](https://kelcuprum.ru/ass/budge/profile/java.svg)](https://adoptium.net)
+[![js](https://kelcuprum.ru/ass/budge/profile/js.svg)](https://nodejs.org/)
 
 Я говорю в основном по-русски
 
