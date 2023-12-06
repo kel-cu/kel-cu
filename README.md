@@ -9,7 +9,5 @@
 
 Я говорю в основном по-русски
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=simply-kel&theme=java-dark&border_radius=18&locale=ru" alt="GitHub Streak" /></a>
-
 <a href="https://modrinth.com/mod/alinlib"><img src="https://kelcuprum.ru/ass/budge/alina%20about.svg" /></a>
   
