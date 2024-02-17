@@ -10,6 +10,5 @@
 [![js](https://kelcuprum.ru/ass/budge/profile/js.svg)](https://nodejs.org/)
 
 <img src="https://weather.andcool.ru/api?place=Peterhof&timezone=gmt3&language=ru">
-Я говорю в основном по-русски
 
   
