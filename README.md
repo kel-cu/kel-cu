@@ -1,3 +1,5 @@
+<img src="https://cdn.kelcuprum.ru/other/profile/alina.png" align="right" height="500pt"/>
+
 ## Kel Cuprum 🎄
 Привет, я Кел!<br>
 Человек который занимается модами для Minecraft: Java Edition на Fabric.<br>
@@ -10,5 +12,4 @@
 <img src="https://weather.andcool.ru/api?place=Peterhof&timezone=gmt3&language=ru">
 Я говорю в основном по-русски
 
-<a href="https://modrinth.com/mod/alinlib"><img src="https://kelcuprum.ru/ass/budge/alina%20about.svg" /></a>
   
