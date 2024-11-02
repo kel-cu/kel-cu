@@ -1,5 +1,5 @@
 <h2><img src="https://kelcuprum.ru/assets/icon.svg" width="30pt"> Kel Cuprum</h2>
-<img src="https://wf.kelcu.ru/other/profile/look-v3.png?1" width="250pt" align="right"/>
+<img src="https://wf.kelcu.ru/other/profile/look-v4.png" width="250pt" align="right"/>
 
 Привет, я Кел!<br>
 Я занимаюсь разработкой собственных проектов и частично творчеством
