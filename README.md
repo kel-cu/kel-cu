@@ -1,4 +1,4 @@
-<img src="https://wfu.kelcu.ru/cW9MJON" height="55pt">
+<a href="https://kelcuprum.ru/"><img src="https://wfu.kelcu.ru/cW9MJON" height="55pt"></a>
 <img src="https://wf.kelcu.ru/other/profile/look-v3.png?2" width="250pt" align="right"/>
 
 Привет, я Кел!<br>
