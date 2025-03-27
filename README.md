@@ -9,6 +9,7 @@
 > <a href="https://modrinth.com/mod/simplystatus"><img src="https://wf.kelcu.ru/other/profile/pr/Status.png" width="25pt">  SimplyStatus</a><br>
 > <a href="https://modrinth.com/mod/waterplayer"><img src="https://wf.kelcu.ru/other/profile/pr/WaterPlayer.png" width="25pt">  WaterPlayer</a><br>
 > <a href="https://modrinth.com/mod/abi"><img src="https://wf.kelcu.ru/other/profile/pr/ABI.png" width="25pt">  Action Bar Info</a><br>
+> <a href="https://modrinth.com/mod/ppl-helper"><img src="https://pplh.ru/assets/og/icon.png" width="25pt">  PepeLand Helper</a><br>
 
 
 #### Основные ЯП
