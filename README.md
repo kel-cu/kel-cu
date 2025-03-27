@@ -12,9 +12,9 @@
 
 
 #### Основные ЯП
-[![java](https://wf.kelcu.ru/kel-budges/profile/java.svg?1)](https://adoptium.net)
-[![js](https://wf.kelcu.ru/kel-budges/profile/js.svg)](https://nodejs.org/)
+<a href="https://adoptium.org/"><img src="https://wfu.kelcu.ru/DkePeZy" height="45pt"></a>
+<a href="https://nodejs.org/"><img src="https://wfu.kelcu.ru/Q6TFOYL" height="45pt"></a>
 
 #### Поддерживаемые загрузчики
-[![fabric](https://wf.kelcu.ru/kel-budges/profile/fabric.svg)](https://fabricmc.net)
-[![neoforge](https://wf.kelcu.ru/kel-budges/profile/neoforge.svg)](https://neoforged.net/)
+<a href="https://fabricmc.net/"><img src="https://wfu.kelcu.ru/IH6Z7R4" height="45pt"></a>
+<a href="https://neoforged.net/"><img src="https://wfu.kelcu.ru/InrYRjI" height="45pt"></a>
