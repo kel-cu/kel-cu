@@ -18,4 +18,3 @@
 
 #### Поддерживаемые загрузчики
 <a href="https://fabricmc.net/"><img src="https://wfu.kelcu.ru/IH6Z7R4" height="45pt"></a>
-<a href="https://neoforged.net/"><img src="https://wfu.kelcu.ru/InrYRjI" height="45pt"></a>
